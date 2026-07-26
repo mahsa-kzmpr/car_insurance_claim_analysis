@@ -207,8 +207,6 @@ Place the dataset at:
 data/Car_Insurance_Claim.csv
 ```
 
-Then open the notebook and run the cells in order.
-
 ## Author
 
 **Mahsa Kazempour**
