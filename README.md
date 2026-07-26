@@ -199,13 +199,7 @@ This pattern indicates a strong association between driving experience and claim
     └── Car_Insurance_Claim.csv
 ```
 
-## Running the Notebook
-
-Install the required libraries:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
-```
+## dataset
 
 Place the dataset at:
 
